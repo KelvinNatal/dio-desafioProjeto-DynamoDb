@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Iron Maiden"},
+  "SongTitle": {"S": "Afraid to Shoot Strangers"},
+  "AlbumTitle": {"S": "Fear of the Dark"},
+  "SongYear": {"S": "1982"}
+}
